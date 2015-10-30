@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yatzhee3", "Yatzhee3\Yatzhee3.csproj", "{4BDA7E34-3462-4FAC-853B-3113C1D80AC8}"
+EndProject
+Project("{F088123C-0E9E-452A-89E6-6BA2F21D5CAC}") = "ModelingProject1", "ModelingProject1\ModelingProject1.modelproj", "{B2EEA812-C868-43CF-9E75-58786135A134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BDA7E34-3462-4FAC-853B-3113C1D80AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BDA7E34-3462-4FAC-853B-3113C1D80AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BDA7E34-3462-4FAC-853B-3113C1D80AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BDA7E34-3462-4FAC-853B-3113C1D80AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2EEA812-C868-43CF-9E75-58786135A134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2EEA812-C868-43CF-9E75-58786135A134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2EEA812-C868-43CF-9E75-58786135A134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2EEA812-C868-43CF-9E75-58786135A134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

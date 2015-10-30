@@ -1,0 +1,22 @@
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.exe
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\bin\Debug\Yatzhee3.pdb
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.exe
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.pdb
+c:\users\jarno\documents\visual studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Jarno\Documents\Visual Studio 2015\Projects\Yatzhee3\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\bin\Debug\Yatzhee3.exe.config
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.exe
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.pdb
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\bin\Debug\Yatzhee3.exe
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\bin\Debug\Yatzhee3.pdb
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.Properties.Resources.resources
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.ScoreboardView.resources
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.TeerlingView.resources
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.Yahtzee.resources
+C:\Users\Enzo\Documents\college\software engineering virtual 3d\enzo-trompeneers\-opdracht-02-technische-analyse\-yathzee\-yatzhee\Yatzhee3\obj\Debug\Yatzhee3.csproj.GenerateResource.Cache
